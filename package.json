@@ -2,7 +2,7 @@
   "name": "updated-portfolio-page",
   "version": "1.0.0",
   "description": "Portfolio of my work and contact information, created using materialize",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
