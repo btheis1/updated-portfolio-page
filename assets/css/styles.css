@@ -5,14 +5,34 @@ body {
     flex-direction: column;
   }
 
+nav {
+  background-color: #cd7789;
+}
+
+.page-footer {
+  background-color: #cd7789;
+}
+
 main {
     flex: 1 0 auto;
   }
+
+.black-white-text {
+  padding: 0px;
+  margin: 0px;
+}
 
 .parallax-container {
     height: 170px;
     padding: 0px;
     margin: 0px;
+}
+
+#contact-form {
+  padding: 10px;
+}
+.portfolio {
+  height: 100px;
 }
 
 #headshot {
